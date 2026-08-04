@@ -62,7 +62,7 @@ public class Main {
 
             if (uangAnda >= totalHarga) {
                 double kembalian = uangAnda - totalHarga ;
-                System.out.println("kembalian anda adalah $" +kembalian + "terima kasih sudah berkunjung");           }
+                System.out.println("kembalian anda adalah $" +kembalian + "terima kasih sudah berkunjung00000");           }
             else {
                 double kurang = totalHarga - uangAnda;
                 System.out.println("uang anda tidak cukup sebesar $"+ kurang+" breee!!!!!");
